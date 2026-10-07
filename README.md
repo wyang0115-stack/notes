@@ -1,2 +1,2 @@
 # notes
-[link teext](comp1238.md)
+[link text](comp1238.md)
