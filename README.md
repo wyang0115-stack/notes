@@ -8,3 +8,9 @@
   - 4:00pm - [comp1238]
 - **Tuesday**
   - 6:00pm - [comp1234]
+
+- **Wednesday**
+
+- **Thursday**
+
+- **Friday**
